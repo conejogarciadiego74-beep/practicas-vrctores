@@ -4,7 +4,7 @@ public class Ejercicio4_vectores {
     public static void main(String[] args) {
 
         // ============
-        // Ejercicio 3.
+        // Ejercicio 4.
         // ============
 
         Scanner entrada = new Scanner(System.in);

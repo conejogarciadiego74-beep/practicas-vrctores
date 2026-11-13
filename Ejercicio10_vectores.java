@@ -35,5 +35,8 @@ public class Ejercicio10_vectores {
                 menor ++;
             }
         }
+        System.out.println("La media es: " + media);
+        System.out.println("Hay " + mayor + " personas por encima de la media");
+        System.out.println("Hay " + menor + " personas por debajo de la media");
     }
 }

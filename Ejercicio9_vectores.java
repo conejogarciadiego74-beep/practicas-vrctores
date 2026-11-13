@@ -16,7 +16,7 @@ public class Ejercicio9_vectores {
 
         for (int i = 0; i < numeros.length; i++)
         {
-            numeros [i] = (int) ((int)  1+ Math.random()*10);
+            numeros [i] = (int) (1 + Math.random()*10);
         }
 
         System.out.println("Introduce un número del 1 al 10");

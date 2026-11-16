@@ -38,7 +38,7 @@ public class Ejercicio12_vectores {
                 System.out.println("Dame una posición (P)");
                 int p = entrada.nextInt();
 
-                v = numeros[p];// no entiendo porq no me sobreescribe el valor v en la posición p
+                numeros[p] = v;
             }
 
 

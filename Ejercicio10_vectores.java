@@ -1,6 +1,5 @@
 import java.util.Random;
 import java.util.Scanner;
-import java.util.Arrays;
 public class Ejercicio10_vectores {
 
     public static void main(String[] args) {

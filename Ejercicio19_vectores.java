@@ -19,5 +19,13 @@ public class Ejercicio19_vectores {
 
         Arrays.sort(numeros);
 
+        int invertido [] = new int[numeros.length];
+
+        for (int i = 0; i < numeros.length; i++)
+        {
+            invertido [i] = numeros[numeros.length-1 - i];//para gonzalo no sé porq estaba usando binary search y no habia pensado en esto que es 1000 veces mas facil
+        }
+        System.out.println(Arrays.toString(invertido));
+
     }
 }
